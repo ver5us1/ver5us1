@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Vlad Buntin — Data Science and Machine Learning">
+<rect width="1280" height="340" rx="20" fill="#0d1525"/>
+<g stroke="#25364f" stroke-width="1" opacity=".7"><path d="M850 0V340"/><path d="M900 0V340"/><path d="M950 0V340"/><path d="M1000 0V340"/><path d="M1050 0V340"/><path d="M1100 0V340"/><path d="M1150 0V340"/><path d="M1200 0V340"/><path d="M1250 0V340"/><path d="M840 40H1280"/><path d="M840 90H1280"/><path d="M840 140H1280"/><path d="M840 190H1280"/><path d="M840 240H1280"/><path d="M840 290H1280"/><path d="M840 340H1280"/></g>
+<path d="M850 24V316" stroke="#25364f"/>
+<rect x="56" y="43" width="30" height="4" rx="2" fill="#67e8cf"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="102" y="51" font-size="15" letter-spacing="2.4" fill="#97b0cc">ECONOMICS → DATA → ML</text>
+<text x="56" y="130" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#edf6ff">Vlad Buntin</text>
+<text x="58" y="174" font-size="25" fill="#67e8cf">Data Science / Machine Learning</text>
+<text x="58" y="220" font-size="18" fill="#97b0cc">НИУ ВШЭ · Магистратура «Искусственный интеллект»</text>
+<g fill="none" stroke="#25364f"><rect x="56" y="258" width="140" height="34" rx="17"/><rect x="207" y="258" width="209" height="34" rx="17"/><rect x="427" y="258" width="220" height="34" rx="17"/></g>
+<g font-size="14" fill="#97b0cc"><text x="76" y="280">Python · SQL</text><text x="227" y="280">NLP &amp; embeddings</text><text x="447" y="280">Energy &amp; time series</text></g>
+<text x="917" y="282" font-size="12" letter-spacing="2.7" fill="#97b0cc">EXPLORE. BUILD. EXPLAIN.</text>
+</g>
+<g fill="none" stroke="#67e8cf" stroke-width="2" opacity=".65"><path d="M928 208L971 145"/><path d="M971 145L1020 192"/><path d="M1020 192L1068 102"/><path d="M1068 102L1109 159"/><path d="M1109 159L1160 72"/><path d="M1160 72L1197 131"/></g>
+<circle cx="928" cy="208" r="5" fill="#67e8cf"/><circle cx="971" cy="145" r="7" fill="#67e8cf"/><circle cx="1020" cy="192" r="5" fill="#67e8cf"/><circle cx="1068" cy="102" r="7" fill="#67e8cf"/><circle cx="1109" cy="159" r="5" fill="#67e8cf"/><circle cx="1160" cy="72" r="7" fill="#67e8cf"/><circle cx="1197" cy="131" r="5" fill="#67e8cf"/>
+</svg>
